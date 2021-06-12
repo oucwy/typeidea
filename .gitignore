@@ -1,0 +1,4 @@
+# markwy 21.6.12
+*.pyc
+*.swp
+*.sqlite3
