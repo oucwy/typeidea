@@ -5,3 +5,5 @@
 # modify /etc/hosts for github DNS
 
 # try vim with system clipboard
+
+# token前加$不行
