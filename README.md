@@ -7,3 +7,5 @@
 # try vim with system clipboard
 
 # token前加$不行
+
+# 再试全过程。设置存储，输入用户名口令看看。
